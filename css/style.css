@@ -1,0 +1,51 @@
+/*NAVBAR*/
+.header{
+    height: 80px;
+}
+.menu{
+    background-color: #0071ce;
+}
+
+.navbar a{ 
+    color: #eee;
+}
+
+/* DESTAQUES */
+
+.destaques .card:hover{
+    background-color: #eee;
+}
+
+/* FIM DESTAQUES */
+
+/* RODAPÉ */
+.redesSociais{
+    font-size: 30px;
+    margin: auto;
+}
+
+.redesSociais a{
+    color: white;
+}
+
+.redesSociais a:hover{
+    color: #eee;
+}
+
+.contatos{
+    margin: auto;
+    color: white;
+    font-size: 18px;
+}
+
+.contatos a{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.contatos a:hover{
+    font-size: 18px;
+    color: #eee;
+}
+/* FIM RODAPÉ */
